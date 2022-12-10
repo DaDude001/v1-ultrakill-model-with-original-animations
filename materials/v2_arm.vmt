@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$Basetexture" "models/ULTRAKILL/characters/bosses/v1/V2_arm"
+
+	"$LightWarpTexture" "models/ULTRAKILL/shared/lightwarp_ULTRAKILL"
+
+
+
+//Phong
+	"$Phong" 						"1"
+	"$Phongboost"					"0"
+	"$Phongfresnelranges"    "[0.3333 0.3333 0.3333]"
+	"$PhongAlbedoTint" "1"
+	"$Phongexponent"			"5"
+
+//Other
+	"$HalfLambert" "1"
+}
+
